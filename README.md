@@ -4,5 +4,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shivani-boyina/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0941-valid-mountain-array](https://github.com/Shivani-boyina/leetcode-solutions/tree/master/0941-valid-mountain-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Shivani-boyina/leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
