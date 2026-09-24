@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Shivani-boyina/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0941-valid-mountain-array](https://github.com/Shivani-boyina/leetcode-solutions/tree/master/0941-valid-mountain-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivani-boyina/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shivani-boyina/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivani-boyina/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Euclidean Algorithm
 |  |
 | ------- |
