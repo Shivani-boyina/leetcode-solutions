@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shivani-boyina/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivani-boyina/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Shivani-boyina/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Shivani-boyina/leetcode-solutions/tree/master/0183-customers-who-never-order) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivani-boyina/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivani-boyina/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
